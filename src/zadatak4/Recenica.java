@@ -1,4 +1,4 @@
-package test;
+package zadatak4;
 
 import java.util.Scanner;
 

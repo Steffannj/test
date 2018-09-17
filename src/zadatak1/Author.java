@@ -1,4 +1,4 @@
-package test;
+package zadatak1;
 
 public class Author {
 	private String name;

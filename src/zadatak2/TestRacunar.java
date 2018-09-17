@@ -1,4 +1,4 @@
-package test;
+package zadatak2;
 
 public class TestRacunar {
 
